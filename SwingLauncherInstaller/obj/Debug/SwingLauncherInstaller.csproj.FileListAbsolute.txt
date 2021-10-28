@@ -1,0 +1,12 @@
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\bin\Debug\SwingLauncherInstaller.exe.config
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\bin\Debug\SwingLauncherInstaller.exe
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\bin\Debug\SwingLauncherInstaller.pdb
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Debug\SwingLauncherInstaller.csproj.AssemblyReference.cache
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Debug\SwingLauncherInstaller.Form1.resources
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Debug\SwingLauncherInstaller.Properties.Resources.resources
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Debug\SwingLauncherInstaller.csproj.GenerateResource.cache
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Debug\SwingLauncherInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Debug\SwingLauncherInstaller.exe
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Debug\SwingLauncherInstaller.pdb
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Debug\SwingLauncherInstaller.csproj.ResolveComReference.cache

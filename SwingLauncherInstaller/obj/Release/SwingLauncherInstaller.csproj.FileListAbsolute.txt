@@ -1,0 +1,17 @@
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\bin\Release\SwingLauncherInstaller.exe.config
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\bin\Release\SwingLauncherInstaller.exe.manifest
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\bin\Release\SwingLauncherInstaller.application
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\bin\Release\SwingLauncherInstaller.exe
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\bin\Release\SwingLauncherInstaller.pdb
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Release\SwingLauncherInstaller.csproj.AssemblyReference.cache
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Release\SwingLauncherInstaller.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Release\SwingLauncherInstaller.csproj.ResolveComReference.cache
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Release\SwingLauncherInstaller.Form1.resources
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Release\SwingLauncherInstaller.Properties.Resources.resources
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Release\SwingLauncherInstaller.csproj.GenerateResource.cache
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Release\SwingLauncherInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Release\SwingLauncherInstaller.exe.manifest
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Release\SwingLauncherInstaller.application
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Release\SwingLauncherInstaller.exe
+C:\Users\Marcell\source\repos\SwingLauncherInstaller\SwingLauncherInstaller\obj\Release\SwingLauncherInstaller.pdb
